@@ -3,6 +3,7 @@ MAINTAINER Andrey Romanov <ansromanov@gmail.com>
 
 # Suppress apt installation warnings
 ENV DEBIAN_FRONTEND=noninteractive
+#
 
 # Change to root user
 USER root
